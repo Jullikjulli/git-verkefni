@@ -40,8 +40,11 @@ XXXXXXXXXXXXX
 
 XXXXXXXXXXXXX
 Do you want to [see something fun][a fun place]?
+
 Well, do I have [the website for you][another fun place]!
+
 [a fun place]:www.zombo.com
+
 [another fun place]:www.stumbleupon.com
 
 XXXXXXXXXXXXX
@@ -51,8 +54,11 @@ XXXXXXXXXXXXX
 XXXXXXXXXXXXX
 
 ![Black cat][Black]
+
 ![Orange cat][Orange]
+
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 XXXXXXXXXXXXX
